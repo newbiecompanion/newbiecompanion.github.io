@@ -357,4 +357,6 @@ h1.header_title {
     padding: 47px 24px 24px 4px;
     border: none;
     border-radius: 30px;
+    transform: scale(0.9);
+    transform-origin: top left;
 }
