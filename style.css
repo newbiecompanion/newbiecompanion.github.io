@@ -345,17 +345,16 @@ h1.header_title {
     height: 720px;
     left: 0;
     top: 0;
-   
 }
 
-#framecont{
-    overflow:hidden;
-    width:316px;
+#framecont {
+    overflow: hidden;
+    width: 316px;
 }
 
 #frame {
     margin: 0;
     padding: 47px 24px 24px 4px;
-     border: none;
-     border-radius: 30px;
+    border: none;
+    border-radius: 30px;
 }
